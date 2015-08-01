@@ -5,5 +5,31 @@
  * PORTFOLIO THEME - (C)COPYRIGHT PETER RICHARDS 2015
  * Created by Peter Richards - 01/08/15
  * All Rights Reserved
+ * ---------------------------
+ * Hey! Thanks for taking the time to look at my code, I've left some comments to make it clearer for you.
  */
 
+/*
+ * 
+ * Main styling // body, viewport.
+ * 
+ */
+body,html{
+	width:100%;
+}
+
+.content{
+	width:80%;
+	margin:0 10%;
+}
+
+/*
+ * 
+ * Box Styling // Various divs and the like 
+ * 
+ */
+.header{
+	background-color:#c9c9c9;
+	width:100%;
+	height:10%
+}
