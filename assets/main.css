@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(//fonts.googleapis.com/css?family=Lobster|Raleway|Playfair+Display|Open+Sans:400,500);
+@import url(//fonts.googleapis.com/css?family=Lobster|Raleway:100,400|Playfair+Display|Open+Sans:400,500);
 /*
  * PORTFOLIO THEME - (C)COPYRIGHT PETER RICHARDS 2015
  * Created by Peter Richards - 01/08/15 
@@ -19,7 +19,7 @@ body,html{
 	margin:0;
 	background-color:#E3E3E3;
 	color:#363636;
-	background: url('/assets/bg.jpg') no-repeat center center;
+	background: url('http://p110.github.io/assets/bg.jpg') no-repeat center center;
 	font-family:'Open sans','Calibri','Arial';
 }
 
@@ -81,14 +81,29 @@ a:hover{
 
 .content{
 	background-color:#fff;
-	margin:3%;
+	margin:5%;
 	padding:20px;
+	background-color:#f3f3f3;
 }
 
 .me{
 	border-radius:50%;
 	margin:0 auto;
-	background: url('./circle.svg') no-repeat;
-	width:100px;
-	height:100px
+	background: url('http://p110.github.io/assets/cirlce.svg') no-repeat;
+	width:250px;
+	height:250px
+}
+
+.paragraph{
+	width:80%;
+	margin:0 auto;
+	text-align:left;
+	font-family:'Raleway','Open Sans','Arial';
+	font-weight:400;
+	color:#767676;
+}
+
+h1{
+	font-weight:100;
+	color:#363636;
 }
