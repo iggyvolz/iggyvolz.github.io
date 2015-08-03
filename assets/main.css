@@ -19,7 +19,7 @@ body,html{
 	margin:0;
 	background-color:#E3E3E3;
 	color:#363636;
-	background: url('http://p110.github.io/custom/img/bg.jpg') no-repeat center center;
+	background: url('/assets/bg.jpg') no-repeat center center;
 	font-family:'Open sans','Calibri','Arial';
 }
 
@@ -77,4 +77,18 @@ a:hover{
 .logo{
 	margin:0 2%;
 	width:100%;
+}
+
+.content{
+	background-color:#fff;
+	margin:3%;
+	padding:20px;
+}
+
+.me{
+	border-radius:50%;
+	margin:0 auto;
+	background: url('./circle.svg') no-repeat;
+	width:100px;
+	height:100px
 }
