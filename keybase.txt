@@ -1,0 +1,49 @@
+I hereby claim:
+
+  * I am an admin of https://iggyvolz.github.io
+  * I am iggyvolz (https://keybase.io/iggyvolz) on keybase.
+  * I have a public key ASBhJfxETxLmJMJRM94IoQhTG3-UyQwyMHtXZEWdcE4BCwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101aec98b47f330f3d75f7d56d01fd082f81c5a0525a811c140c40e4a890c5459d70a",
+            "host": "keybase.io",
+            "kid": "01206125fc444f12e624c25133de08a108531b7f94c90c32307b5764459d704e010b0a",
+            "uid": "851f394f77b4df3a729ccdd67be46419",
+            "username": "iggyvolz"
+        },
+        "service": {
+            "hostname": "iggyvolz.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470074288,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470074272,
+        "hash": "e137bbbfca303ff17aaf6a82d2af8bfe1668debb80ee21d6e0861e95dbca76a0b7c47f354d0de64aafc77315494471e61e06d0310e981a8fa1804e2c87548990",
+        "seqno": 552557
+    },
+    "prev": "dd8b079586cba079fee18fb42efe18ab4b713894364f705f5bd2304814ecd9f2",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYSX8RE8S5iTCUTPeCKEIUxt/lMkMMjB7V2RFnXBOAQsKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYWVjOThiNDdmMzMwZjNkNzVmN2Q1NmQwMWZkMDgyZjgxYzVhMDUyNWE4MTFjMTQwYzQwZTRhODkwYzU0NTlkNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjEyNWZjNDQ0ZjEyZTYyNGMyNTEzM2RlMDhhMTA4NTMxYjdmOTRjOTBjMzIzMDdiNTc2NDQ1OWQ3MDRlMDEwYjBhIiwidWlkIjoiODUxZjM5NGY3N2I0ZGYzYTcyOWNjZGQ2N2JlNDY0MTkiLCJ1c2VybmFtZSI6ImlnZ3l2b2x6In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpZ2d5dm9sei5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDA3NDI4OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwMDc0MjcyLCJoYXNoIjoiZTEzN2JiYmZjYTMwM2ZmMTdhYWY2YTgyZDJhZjhiZmUxNjY4ZGViYjgwZWUyMWQ2ZTA4NjFlOTVkYmNhNzZhMGI3YzQ3ZjM1NGQwZGU2NGFhZmM3NzMxNTQ5NDQ3MWU2MWUwNmQwMzEwZTk4MWE4ZmExODA0ZTJjODc1NDg5OTAiLCJzZXFubyI6NTUyNTU3fSwicHJldiI6ImRkOGIwNzk1ODZjYmEwNzlmZWUxOGZiNDJlZmUxOGFiNGI3MTM4OTQzNjRmNzA1ZjViZDIzMDQ4MTRlY2Q5ZjIiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAuxiMx/uf5mys6M+iwW6h7l+Ypda48uchiUga5t1IJlZqSHTVdC2nrnH7CuatpegmKOrje/atfJKWR6jwkq8ADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFSDe7weq77LGXCP7v2y3zxJzUo22+WZFC949n1t5BQeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iggyvolz
+
